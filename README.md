@@ -3,8 +3,9 @@
 
 # Quickemu
 
-**This is a fork
-**Updated 2026/2/7
+**This is a fork**
+
+*Updated 2026/2/7
 
 **Quickly create and run optimised Windows, macOS and Linux virtual machines:**
 
